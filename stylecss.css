@@ -265,6 +265,7 @@ section {
 
 .btn-container {
     gap: 1rem;
+    padding: 10px;
 }
 
 
@@ -291,7 +292,7 @@ section {
 }
 
 .about-pic {
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 
 .arrow {
